@@ -1,0 +1,26 @@
+# FUTURE_UX_01
+
+# Dental Clinic Website Redesign
+
+## Project Overview
+This project is a redesign of a dental clinic website focused on improving user experience and conversion optimization.
+
+## Pages Included
+- Homepage
+- Service Detail Page
+- Contact Page
+- Mobile Responsive Design
+
+## Features
+- Modern UI Design
+- Clear Call-To-Action Buttons
+- Testimonials Section
+- Contact Form
+- Responsive Layout
+
+## Tools Used
+- Figma
+- Canva
+
+## Submitted By
+Gadipelly Shashikanth
