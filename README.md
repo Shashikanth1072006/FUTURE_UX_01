@@ -68,20 +68,3 @@ The redesign focuses on creating a professional online presence for the clinic w
 
 **G. Shashikanth**
 
----
-
-## 📷 Project Preview
-
-Add your design screenshots here to showcase the final UI screens.
-
-```md
-![Homepage](images/homepage.png)
-![Services Page](images/services.png)
-![Contact Page](images/contact.png)
-```
-
----
-
-## 🚀 Conclusion
-
-The Dental Clinic Website Redesign successfully delivers a modern, responsive, and user-friendly digital experience that helps build trust with patients and encourages appointment bookings through clear navigation and effective call-to-action elements.
